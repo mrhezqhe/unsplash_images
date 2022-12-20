@@ -7,6 +7,9 @@ This is an example getting images from unsplash.com
 - Developer Access Key from https://unsplash.com/developers
   - update api.js according your access key  
 
+## Result
+![](https://github.com/mrhezqhe/unsplash_images/blob/main/unsplash-images-gif.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
